@@ -12,6 +12,7 @@ namespace SampleJenkinsProject
         {
             Console.WriteLine("Sample Jenkins");
             Console.WriteLine("Added after first build");
+            Console.WriteLine("Added after second build")
         }
     }
 }
